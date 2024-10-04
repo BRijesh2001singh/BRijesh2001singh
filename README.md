@@ -1,4 +1,4 @@
-<img width="10000" height="400"  src="https://github.com/BRijesh2001singh/BRijesh2001singh/blob/main/gitban.jpg">
+
 <h1 align="center">Hi 👋, I'm Brijesh Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding" align="right" width="400">
