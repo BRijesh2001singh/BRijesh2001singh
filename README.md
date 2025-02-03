@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mern stack**
 
-- 👨‍💻CheckOut my portfolio [Portfolio](https://brijesh-portfolio-24.netlify.app/)
+- 👨‍💻CheckOut my portfolio [Portfolio](https://brijeshportfolio24.netlify.app/)
 
 - 💬 Ask me about **react ,HTML , Javascript**
 
